@@ -1,0 +1,71 @@
+Week,Main Focus (Daily Split — 2 hrs/day),Topics & Resources,Mini-Project / Practice (Saturday),SOC Relevance
+1,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: HTML + CSS
+Sat: Mixed practice","Networking: OSI model, TCP/IP, IP addressing
+Python: Variables, data types, loops, functions
+HTML/CSS: Tags, box model, colors",Build simple static webpage + Python script that prints your IP,Foundation for reading network logs
+2,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: HTML + CSS
+Sat: Mixed","Networking: Subnetting, ports, protocols
+Python: Lists, dictionaries, conditionals
+HTML/CSS: Flexbox, basic responsive",Responsive “About Me” page + Python calculator script,Subnetting = daily SOC skill
+3,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: JavaScript
+Sat: Mixed","Networking: DNS, DHCP, HTTP basics + light Linux (terminal, ls, cd, pwd)
+Python: File handling, modules
+JavaScript: Variables, functions, DOM",Interactive webpage (button changes color) + Python file reader,Linux commands = SOC daily tool
+4,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: JavaScript
+Sat: Mixed (Review Week)","Networking: Firewalls, NAT, basic Wireshark
+Python: Functions + requests library
+JavaScript: Events, arrays",Simple Todo list (JS) + Python script that checks website status,Wireshark = core SOC tool
+5,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: HTML + CSS
+Sat: Mixed","Networking: TCP 3-way handshake, common attacks
+Python: OOP basics
+HTML/CSS: Grid, animations",Beautiful responsive portfolio page,Understand web attacks
+6,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: JavaScript
+Sat: Mixed","Networking: Packet Tracer labs (home network)
+Python: Error handling, libraries
+JavaScript: Fetch API basics",Python + JS: webpage that shows your public IP,Real network simulation
+7,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: HTML + CSS + JS
+Sat: Mixed","Networking: Review + security concepts
+Python: Mini automation scripts
+Web: Combine into one page",Full interactive “Network Status” dashboard (HTML/CSS/JS + Python backend),Combine skills for SOC reports
+8,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: JavaScript
+Sat: Mixed (Review Week)","Networking: Routing, VPN basics
+Python: Flask intro (web server)
+JavaScript: Async basics",Build simple Flask app that serves your portfolio,Flask = useful for SOC tools
+9,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: HTML + CSS
+Sat: Mixed","Networking: Wireless, VLANs, log analysis
+Python: Pandas basics (for logs)
+HTML/CSS: Forms, validation",Python script that analyzes sample log file + nice HTML report,Log analysis = SOC daily job
+10,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: JavaScript
+Sat: Mixed","Networking: Wireshark deep dive + threats
+Python: Scripting for security tasks
+JavaScript: LocalStorage, JSON",Security dashboard (JS frontend + Python backend),Real SOC-like project
+11,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: Mixed web
+Sat: Mixed","Full review of weak areas
+Python: Integrate with web",Improve all previous mini-projects,Consolidation
+12,"Mon–Tue: Networking
+Wed–Thu: Python
+Fri: Full integration
+Sat: Final project","Networking + Python + Web together
+Light Linux review","Capstone: Personal SOC-style dashboard (shows network status, log parser, nice web UI) hosted on your machine",Portfolio piece for job applications
